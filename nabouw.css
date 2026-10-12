@@ -1,0 +1,85 @@
+body {
+    line-height: 1.7;
+    background-color: #f3ede4;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal; 
+    color: #ee6802;
+}
+
+.slogan {
+    font-style: italic;
+    color: gray;
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+nav a {
+    color: #ee6802;
+    font-family: Verdana;
+    text-decoration: none;
+
+}
+
+#kaart {
+    font-size: 2rem;
+    font-weight: normal;
+    line-height: 1.7;
+}
+
+article p {
+    font-family: Verdana;
+    font-style: normal;
+    font-size: 13px;
+}
+
+.intro {
+    font-size: 15px;
+}
+
+h3 {
+    color: gray;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.kaart {
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+.kaart li:nth-child(odd){
+    background-color: #eacab1;
+}
+
+.prijs {
+    font-style: italic;
+    color: gray;
+}
+
+p > a {
+    color: rgb(255, 115, 0);
+}
+
+ol {
+    font-family: verdana;
+    font-size: 12px;
+}
+
+strong{
+    color: orange;
+    font-family: verdana;
+}
+
+footer > p {
+    font-family: verdana;
+    font-size: 10px;
+    text-align: center;
+    color: gray;
+}
+
+footer a{
+    color: gray;
+}
